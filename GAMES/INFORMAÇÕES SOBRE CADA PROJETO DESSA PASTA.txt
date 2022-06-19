@@ -1,0 +1,90 @@
+		Informações sobre cada Projeto da Pasta "GAMES"
+==================================================================================
+#01			Aprendendo Programação e Logica
+
+- Esse Projeto foi uma aula que ensinou como funciona a logica de programação
+na pratica onde damos nossos primeiros comandos na linguagem java para jogos.
+
+==================================================================================
+#02				Programa de Leitura
+
+- Nesse modulo criamos um jogo sem interface grafica apenas com comandos onde o
+foco era dar inicio ao desenvolvimento de jogos na pratica e para deixar mais
+formado oque a logica de programação pode fazer.
+
+==================================================================================
+#03			Orientação a Objetos com Java
+
+- Em resumo nesse modulo aprendemos todo o poder que o java tem com a orientação a
+objetos e sua função mais utilizada o debug onde vc pode alterar o codigo em tempo
+real enquanto vc ve as alterações.
+
+==================================================================================
+#04		Entendendo a Logica de Programação em Jogos
+
+- No caso deste modulo do curso, vemos de como a logica funciona em jogos seus
+comandos mais usados como "if,else if,while,for,entre outros..."esse são comandos
+de repetição ou ação como if e else if no portugues se e se não execute tal ação.
+
+==================================================================================
+#05				Graficos com Java
+
+- Neste modulo em específico começamos ja a criar os graficos com java fazendo 
+eles aparecerem na tela utilizando o debug em varios momentos no final organizando
+ele para começar a fazer a engine para os jogos. 
+
+==================================================================================
+#06			Logica e Orientação a Objetos
+
+- Esse Modulo é um resumo dos modulos de Logica e Orientação a Objetos indo 
+direto ao ponto e bem resumido, é uma boa opção para relembrar caso precise.
+
+==================================================================================
+#07				Jogo do Pong
+
+-Esse jogo é baseado no classico game de pong onde vc joga contra a I.A uma bola
+vai de um lado para outro e seu objetivo é acertar o maximo possivel de pontos.
+Busquei mudar um pouco a estetica do jogo ele estanto na vertical e inimigo,Player,
+e bola estando nas cores verde, ja os jogadores e inimigos tem uma borda branco
+em seus "Sprites" e o cenario de fundo esta preto.
+
+*Melhorarias
+
+-I.A
+-Colisão do inimigo "em certa parte ele entra um pouco na parte da direita"
+-Documentar o codigo melhor
+-Fazer Sprites para o game e mudar totalmente a estetica para algo novo e inovador
+-Colocarias duas formas de se jogar tanto na Vertical quanto na Horizontal. 
+
+==================================================================================
+#08		Game Engine Codinome "EtherEngineXyz"
+
+- Nesse em questão estou criando uma Game engine em que estamos se baseando no jogo
+"Zelda" pois temos as dinamicas de topdown ou seja visão de cima movimentos para
+cima,baixo,esquerda e direita. Tambem a nesse modulo a questão das animações com
+java,as imagens sons,a colisão avançada e I.A mais inteligente.
+
+*Informações sobre esse projeto 
+- Essa não é a primeira versão do projeto e sim a 5, as outras versões não estavam
+me satisfazendo e refiz do zero até chegar num resultado satisfatorio em minha visão.
+
+- Para quem ficar interessado em ver em como era o projeto antes, recomendo entra no
+meu instagram pois la eu postei alguns modelos de como estavam ficando o projeto
+o Link para o instagram esta no começo do repositorio onde esta separado em 3 pastas
+Estudos de Programação,Games e Sites. Tera uma Janela/Terminal onde tera o link para
+o inta,face/meta,twitter e youtube.
+
+*Melhorias sendo Feitas e a ser feitas
+-Boa Descrições nos codigos falando oq faz tal coisa.
+-Melhoria nos Sprites
+-Melhores Audios
+-Menos codigos inuteis
+-Novas Guis a serem adicionadas
+-Melhorias nas dinamicas do jogo.
+
+==================================================================================
+
+
+
+
+
